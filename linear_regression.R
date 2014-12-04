@@ -9,7 +9,8 @@
 #  All Three Regions
 #*****************************************************************
 # test the general rule of thumb on all three regions data combined
-setwd("~./temperature")
+setwd("~/Documents/case")
+
 #Read data
 general <- read.table("general.txt",sep=",",header=T)
 summary(general)
