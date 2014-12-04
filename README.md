@@ -3,9 +3,9 @@ harvard-case-linear-model
 
 Compagnie du Froid, S.A. case study from Harvard Business Review https://hbr.org/product/compagnie-du-froid-s-a/an/197085-PDF-ENG?N=4294936176&Ntt=Robert+L.+Simons
 
-The owner of an ice cream company Compagnie du Froid, S.A. must evaluate the performance of three regional businesses. To do the analysis, students must flex the budget by seasonal temperature; calculate revenue, volume, price, and efficiency variances; analyze the effects of transfer prices; and calculate return-on-investment. In addition, the owner considers how to set strategic boundaries and how to compensate his managers.
+The owner of an ice cream company Compagnie du Froid, S.A. must evaluate the performance of three regional businesses. To do the analysis, the budget should be flexed by seasonal temperature; calculate revenue, volume, price, and efficiency variances; analyze the effects of transfer prices; and calculate return-on-investment. In addition, the owner considers how to set strategic boundaries and how to compensate his managers.
 
-The code investigates the seasonal temperature's effect on ice cream sales volume growth rate. Specificaly, test if the rule of thumb that a 1°C deviation from the mean summer temperature results in a 3% change in ice-cream volume growth holds for all three regions French, Spain, and Italy. To do the analysis, a simple linear regression has been built.
+The R code investigates the seasonal temperature's effect on ice cream sales volume growth rate. Specificaly, test if the rule of thumb that a 1°C deviation from the mean summer temperature results in a 3% change in ice-cream volume growth holds for all three regions French, Spain, and Italy. To do the analysis, a simple linear regression has been built.
 
 
 ###France
