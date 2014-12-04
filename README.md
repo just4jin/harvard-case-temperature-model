@@ -8,9 +8,9 @@ The owner of an ice cream company Compagnie du Froid, S.A. must evaluate the per
 The code investigates the seasonal temperature's effect on ice cream sales volume growth rate. Specificaly, test if the rule of thumb that a 1°C deviation from the mean summer temperature results in a 3% change in ice-
 cream volume growth holds for all three regions French, Spain, and Italy. To do the analysis, a simple linear regression has been built.
 
-Results:
 
 France
+
 Volume Growth = 0.0369496 * Temperature - 1.0152617			
 ΔVolume Growth =  3.69496% * ΔTemperature			
 
