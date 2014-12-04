@@ -11,7 +11,6 @@ cream volume growth holds for all three regions French, Spain, and Italy. To do 
 Results:
 
 France
-
 Volume Growth = 0.0369496 * Temperature - 1.0152617			
 ΔVolume Growth =  3.69496% * ΔTemperature			
 
